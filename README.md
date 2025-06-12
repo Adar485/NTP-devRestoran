@@ -35,3 +35,6 @@ git clone https://github.com/Adar485/NTP-devRestoran.git
 2. Visual Studio’da açıp derleyin.
 
 3. Uygulamayı çalıştırarak masa siparişlerinizi takip edin
+
+
+![Ekran görüntüsü 2025-06-12 163956](https://github.com/user-attachments/assets/d2cf7657-9397-4dfa-85ef-30ccf7d2f86e)
