@@ -1,0 +1,11 @@
+Masa No: 3
+Yemek Adı: İşkembe çorbası  
+Yemek Fiyatı: 0
+İçecek Adı: Çay  
+İçecek Fiyatı: 0
+Tatlı Adı: Sütlaç  
+Tatlı Fiyatı: 0
+Yemek Adeti: 2
+İçecek Adeti: 3
+Tatlı Adeti: 2
+Toplam Tutar: 0
